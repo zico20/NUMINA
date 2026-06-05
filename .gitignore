@@ -1,0 +1,26 @@
+# Flutter
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.idea/
+app/.metadata
+app/build/
+app/ios/Pods/
+app/ios/Runner.xcworkspace/xcuserdata/
+app/android/.gradle/
+app/android/build/
+app/pubspec.lock
+
+# Node
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/*.log
+
+# Android signing — DO NOT COMMIT
+app/android/key.properties
+app/android/keystore/
+
+# Editors
+.vscode/
+.DS_Store
