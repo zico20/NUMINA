@@ -24,3 +24,10 @@ app/android/keystore/
 # Editors
 .vscode/
 .DS_Store
+
+# Local-only — kept on disk but not published to the repo
+SCwAI/
+.specify/
+.claude/
+CLAUDE.md
+FUTURE_IDEAS.md
